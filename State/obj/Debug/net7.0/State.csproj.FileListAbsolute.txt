@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\bin\Debug\net7.0\State.exe
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\bin\Debug\net7.0\State.deps.json
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\bin\Debug\net7.0\State.runtimeconfig.json
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\bin\Debug\net7.0\State.dll
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\bin\Debug\net7.0\State.pdb
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.dll
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\refint\State.dll
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.pdb
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\State.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programming\Projects\DesignPatterns\State\obj\Debug\net7.0\ref\State.dll
