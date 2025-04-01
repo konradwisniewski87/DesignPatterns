@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FBC102-3EFE-4C3C-B479-9CF22AE81CFD}|Singleton\\Singleton.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FBC102-3EFE-4C3C-B479-9CF22AE81CFD}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|solutionrelative:builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\builder\\invoice\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|solutionrelative:builder\\invoice\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\builder\\invoice\\invoicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|solutionrelative:builder\\invoice\\invoicebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\builder\\invoice\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4472BB4F-52A8-4F15-8338-97196F453671}|Builder\\Builder.csproj|solutionrelative:builder\\invoice\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FBC102-3EFE-4C3C-B479-9CF22AE81CFD}|Singleton\\Singleton.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\singleton\\configuration\\configurationsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FBC102-3EFE-4C3C-B479-9CF22AE81CFD}|Singleton\\Singleton.csproj|solutionrelative:singleton\\configuration\\configurationsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\state\\caffee\\caffeestatefull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|solutionrelative:state\\caffee\\caffeestatefull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\state\\caffee\\caffeestateempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|solutionrelative:state\\caffee\\caffeestateempty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\state\\caffee\\caffeestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|solutionrelative:state\\caffee\\caffeestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\state\\caffee\\caffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|solutionrelative:state\\caffee\\caffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FBC102-3EFE-4C3C-B479-9CF22AE81CFD}|Singleton\\Singleton.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68FBC102-3EFE-4C3C-B479-9CF22AE81CFD}|Singleton\\Singleton.csproj|solutionrelative:singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|c:\\users\\admin\\documents\\programming\\projects\\designpatterns\\state\\state.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E817A8C-40F0-4A1A-B7B7-F709891DD214}|State\\State.csproj|solutionrelative:state\\state.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1477282578:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Program.cs",
+              "RelativeDocumentMoniker": "State\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Program.cs",
+              "RelativeToolTip": "State\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:27:59.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:28:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaffeeStateFull.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\CaffeeStateFull.cs",
+              "RelativeDocumentMoniker": "State\\Caffee\\CaffeeStateFull.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\CaffeeStateFull.cs",
+              "RelativeToolTip": "State\\Caffee\\CaffeeStateFull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:26:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CaffeeStateEmpty.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\CaffeeStateEmpty.cs",
+              "RelativeDocumentMoniker": "State\\Caffee\\CaffeeStateEmpty.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\CaffeeStateEmpty.cs",
+              "RelativeToolTip": "State\\Caffee\\CaffeeStateEmpty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:26:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Singleton\\Configuration\\ConfigurationSingleton.cs",
+              "RelativeDocumentMoniker": "Singleton\\Configuration\\ConfigurationSingleton.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Singleton\\Configuration\\ConfigurationSingleton.cs",
+              "RelativeToolTip": "Singleton\\Configuration\\ConfigurationSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:25:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-22T16:24:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoicePrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Invoice\\InvoicePrinter.cs",
+              "RelativeDocumentMoniker": "Builder\\Invoice\\InvoicePrinter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Invoice\\InvoicePrinter.cs",
+              "RelativeToolTip": "Builder\\Invoice\\InvoicePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:14:13.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Invoice\\Invoice.cs",
+              "RelativeDocumentMoniker": "Builder\\Invoice\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Invoice\\Invoice.cs",
+              "RelativeToolTip": "Builder\\Invoice\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:14:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Invoice\\InvoiceBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\Invoice\\InvoiceBuilder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Invoice\\InvoiceBuilder.cs",
+              "RelativeToolTip": "Builder\\Invoice\\InvoiceBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:13:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Builder",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Builder.csproj",
+              "RelativeDocumentMoniker": "Builder\\Builder.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Builder\\Builder.csproj",
+              "RelativeToolTip": "Builder\\Builder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T12:19:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CaffeeState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\CaffeeState.cs",
+              "RelativeDocumentMoniker": "State\\Caffee\\CaffeeState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\CaffeeState.cs",
+              "RelativeToolTip": "State\\Caffee\\CaffeeState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:26:24.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Caffee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\Caffee.cs",
+              "RelativeDocumentMoniker": "State\\Caffee\\Caffee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\Caffee\\Caffee.cs",
+              "RelativeToolTip": "State\\Caffee\\Caffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:26:15.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Singleton",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Singleton\\Singleton.csproj",
+              "RelativeDocumentMoniker": "Singleton\\Singleton.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\Singleton\\Singleton.csproj",
+              "RelativeToolTip": "Singleton\\Singleton.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T12:21:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "State",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\State.csproj",
+              "RelativeDocumentMoniker": "State\\State.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Programming\\Projects\\DesignPatterns\\State\\State.csproj",
+              "RelativeToolTip": "State\\State.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T12:21:59.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
