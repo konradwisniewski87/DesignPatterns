@@ -1,5 +1,4 @@
-﻿
-using State.Caffee;
+﻿using State.Caffee;
 
 Console.WriteLine("-------------------------------------------------------------------");
 Caffee caffee = new Caffee();

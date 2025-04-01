@@ -1,5 +1,4 @@
-﻿
-using Singleton.Configuration;
+﻿using Singleton.Configuration;
 
 Console.WriteLine("-------------------------------------------------------------------");
 

@@ -5,8 +5,8 @@ Console.WriteLine("-------------------------------------------------------------
 var invoice = new InvoiceBuilder()
 	.SetInvoiceNumber("24125")
 	.SetDate(new DateTime(2024, 1, 25))
-	.SetVendor("Konrad")
-	.SetVendee("Wisniewski")
+	.SetVendor("Jan")
+	.SetVendee("Kowalski")
 	.SetNote("Note")
 	.SetLineItems(new List<string> { "Line Item1", "LineItem2" })
 	.Build();
