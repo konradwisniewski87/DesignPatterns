@@ -4,7 +4,13 @@ internal class Triangle : Shape
 {
     public override Shape clone(Shape shape)
     {
-        return (Triangle)this.MemberwiseClone();
+        Triangle cloneBase = (Triangle)this.MemberwiseClone();
+        cloneBase.border = new Border()
+        {
+            Size = cloneBase.border.Size,
+            Color = cloneBase.border.Color
+        };
+        return cloneBase;
     }
 
     public override void render()
