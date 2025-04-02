@@ -2,7 +2,7 @@
 
 public class ConfigurationSingleton
 {
-	private static ConfigurationSingleton instance = null;
+	private static ConfigurationSingleton instance = null!;
 	private static object objToLock = new object();
 
     public string StringProperty { get; set; }
